@@ -1,3 +1,3 @@
-# PAT code
+# PAT
 
-Pat甲级题目代码
+pat甲级代码
